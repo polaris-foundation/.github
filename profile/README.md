@@ -39,7 +39,7 @@ Contributions are welcomed from any source in the form of PRs.
 
 Note that, for now, the repositories are forks of the original Sensyne Health repositories - please make sure the base of the PR is set to the polaris-foundation repo rather than the original Sensyne Health repo:
 
-![PR instructions](pr-instructions.png)
+![PR instructions](profile/pr-instructions.png)
 
 ## Contact
 To get in touch, please email jondaly01 at gmail.com.
